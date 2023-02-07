@@ -1,4 +1,4 @@
-module github.com/sidartaoss/sonarqube
+module github.com/sidartaoss/sonarqube/go
 
 go 1.18
 
